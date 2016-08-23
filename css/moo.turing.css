@@ -1,0 +1,51 @@
+body {
+	font-family: "Rambla";
+	font-size: 14px;
+/*	background-color: #FFFFFF; */
+}
+
+.moo-sidenav {
+	background-color: #F0F0F0;
+}
+
+.hero-unit {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+.hero-unit h1 {
+	font-size: 50px;
+}
+.moo-btn-group {
+	width: 250px;
+}
+.translist tr:hover {
+	border: 1px dashed #666;
+	background-color: #ccc;
+}
+
+.translist td {
+	text-align: center;
+}
+.translist th {
+	text-align: center;
+	font-size: 90%;
+}
+
+
+	.t_state {
+		width: 50px;
+	}
+	.t_currstate {
+		background-color: #FFD4E5;
+		text-align: center;
+	}
+	.t_char {
+		text-align: center;
+		text-align: center;
+	}
+	.t_blank { 
+		background-color: #ccc;
+		text-align: center;
+	}
